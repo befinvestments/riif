@@ -27,6 +27,7 @@ module Riif::DSL
       :paid,
       :paymeth,
       :shipdate,
+      :shipvia,
       :rep,
       :ponum,
       :invtitle,
