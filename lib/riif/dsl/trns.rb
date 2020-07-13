@@ -29,6 +29,7 @@ module Riif::DSL
       :shipdate,
       :shipvia,
       :rep,
+      :fob,
       :ponum,
       :invtitle,
       :invmemo
