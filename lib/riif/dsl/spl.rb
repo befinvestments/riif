@@ -17,7 +17,9 @@ module Riif::DSL
       :paymeth,
       :taxable,
       :reimbexp,
-      :extra
+      :extra,
+      :other1,
+      :other2
     ]
     START_COLUMN = 'SPL'
     END_COLUMN = ''
